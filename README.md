@@ -1,5 +1,5 @@
 # Systeme-embarque-Final-project-INF1900
-Pour voir le parcours du projet: https://cours.polymtl.ca/inf1900/tp/projet/
+Pour voir le parcours du projet: https://cours.polymtl.ca/inf1900/tp/projet/epreuves/
 # Materiel
 - 1 suiveur de ligne Cytron LSS05
 - 1 afficheur LCD Lumex LCM-S01602DTR/M
