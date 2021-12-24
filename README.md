@@ -1,7 +1,7 @@
 # Systeme-embarque-Final-project-INF1900
 notre projet contient 2 repertoire:
-1/ app : qui contient le programme du  robot, avec tout les etats de la trajectoire.
-2/ lib : notre librairie qui contient tout les classes qu'on a definie.
+# 1/ app : qui contient le programme du  robot, avec tout les etats de la trajectoire.
+# 2/ lib : notre librairie qui contient tout les classes qu'on a definie.
 
 Dans le dossier lib, on a principalement 15 classes:
 - Classe Timer0.cpp: permet d'initialiser un timer0 ainsi que ces parametres afin de l'utiliser pour emettre du son.
